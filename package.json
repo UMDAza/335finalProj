@@ -14,7 +14,7 @@
   "author": "Azariyas Tafesse",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.8",
+    "dotenv": "^16.4.7",
     "body-parser": "^1.20.3",
     "cm": "^0.3.2",
     "express": "^4.21.1",
